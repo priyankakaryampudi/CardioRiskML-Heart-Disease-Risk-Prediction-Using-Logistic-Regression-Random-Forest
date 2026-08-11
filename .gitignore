@@ -1,0 +1,20 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio
+*.Rproj
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated plots
+# Uncomment if you don't want plots tracked
+# *.png
